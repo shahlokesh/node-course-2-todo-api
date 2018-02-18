@@ -13,4 +13,4 @@ var user = new User({
   email: 'shahlokesh'
 });
 
-module.exports = {user}
+module.exports = {User}
